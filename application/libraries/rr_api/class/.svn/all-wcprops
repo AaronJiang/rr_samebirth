@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/birthdate/!svn/ver/1/1/application/libraries/rr_api/class
+END
+RenrenOAuthApiService.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/birthdate/!svn/ver/1/1/application/libraries/rr_api/class/RenrenOAuthApiService.class.php
+END
+callApi.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/birthdate/!svn/ver/1/1/application/libraries/rr_api/class/callApi.class.php
+END
+example.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/birthdate/!svn/ver/1/1/application/libraries/rr_api/class/example.php
+END
+HttpRequestService.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/birthdate/!svn/ver/1/1/application/libraries/rr_api/class/HttpRequestService.class.php
+END
+config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/birthdate/!svn/ver/1/1/application/libraries/rr_api/class/config.inc.php
+END
+RenrenRestApiService.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/birthdate/!svn/ver/1/1/application/libraries/rr_api/class/RenrenRestApiService.class.php
+END

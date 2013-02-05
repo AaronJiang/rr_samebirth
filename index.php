@@ -1,4 +1,9 @@
 <?php
+/*
+ * Display Errors, disable this in real evn
+ */
+ini_set('display_errors',1); 
+error_reporting(E_ALL);
 
 /*
  *---------------------------------------------------------------
@@ -180,6 +185,7 @@ if (defined('ENVIRONMENT'))
 	if (is_dir($application_folder))
 	{
 		define('APPPATH', $application_folder.'/');
+		define('LIBRARYPATH', $application_folder.'/libraries/');
 	}
 	else
 	{
